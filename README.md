@@ -463,7 +463,7 @@ n8n integrates with Prometheus and Grafana for robust monitoring:
 ## 21. Containerization and Orchestration for DevOps
 Deploy n8n in containerized environments for scalability:
 
-- **Docker**: Use the official `n8nio/n8n` image with Docker Compose for simple setups.
+- **Docker**: Use the official `n8n.io/n8n` image with Docker Compose for simple setups.
 
 - **Kubernetes**: Deploy with Helm charts, configuring ingress for external access ([n8n Kubernetes](https://gist.github.com/bacarini/fa12ed61ca8fadfd7f0121cca3fb5fa1)).
 
